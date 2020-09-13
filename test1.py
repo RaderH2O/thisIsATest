@@ -13,7 +13,3 @@ while True:
         print("Why?")
         
 win.close()
-# Ummm ...... 
-#uhhh
-
-#can we continue for today afternoon, i am bored
